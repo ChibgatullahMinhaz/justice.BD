@@ -4,6 +4,7 @@ import { Outlet, useLocation } from "react-router";
 import Loading from "../Components/Loading/Loading";
 import Navbar from "../Components/Navba/Navbar";
 import Footer from "../Components/Footer/Footer";
+import { Toaster } from "react-hot-toast";
 
 const Root = () => {
   const { loading } = useContext(LoaderContext);
@@ -18,6 +19,9 @@ const Root = () => {
   }, [location, setLoading]);
   return (
     <>
+   <Toaster  position="top-right" />
+
+
       <Navbar></Navbar>
       {loading ? (
         <Loading></Loading>
