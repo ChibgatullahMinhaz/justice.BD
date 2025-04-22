@@ -2,6 +2,7 @@ import { createBrowserRouter } from "react-router";
 import Root from "../Layouts/Root";
 import Home from "../Pages/Home/Home";
 import NotFound from "../Pages/Error/NotFound";
+import LawyerDetails from "../Pages/Details/LawyerDetails";
 
 const routers = createBrowserRouter([
     {
@@ -27,7 +28,7 @@ const routers = createBrowserRouter([
             },
             {
                 path: '/lawyerDetails/:lucence',
-                element: <div>detils page </div>
+                Component: LawyerDetails
             },
             {
                 path: '*',

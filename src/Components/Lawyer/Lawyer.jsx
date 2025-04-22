@@ -13,7 +13,7 @@ const Lawyer = ({ lawyer }) => {
     availability,
     experience,
   } = lawyer;
-  console.log(lawyer);
+ 
   return (
     <div className=" bg-gray-300  rounded-2xl  flex  justify-center items-center md:flex-wrap md:flex-row flex-col gap-2">
       <div>

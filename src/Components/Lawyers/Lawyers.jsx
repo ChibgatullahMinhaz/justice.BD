@@ -2,8 +2,11 @@ import React, { useContext } from "react";
 import { JusticeDataProvider } from "../../Context/ContextProvider/ContextProvider";
 import Lawyer from "../Lawyer/Lawyer";
 
-const Lawyers = () => {
+const Lawyers = ({showLawyer}) => {
   const { lawyers } = useContext(JusticeDataProvider);
+
+  
+
   return (
     <>
       <div>
@@ -15,8 +18,9 @@ const Lawyers = () => {
           receive quality care you can trust.
         </p>
       </div>
+
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
-        {lawyers.map((lawyer) => (
+        {showLawyer.map((lawyer) => (
           <Lawyer key={lawyer.id} lawyer={lawyer}></Lawyer>
         ))}
       </div>
