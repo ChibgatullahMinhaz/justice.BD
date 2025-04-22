@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "name": "Afsana Rahman",
+      "image": "https://i.ibb.co/0Kp7db3/lawyer1.jpg",
+      "speciality": "Criminal Law",
+      "experience": "8 Years",
+      "licenseNumber": "BD-CRIM-1091",
+      "fee": 1500,
+      "availability": ["Sunday", "Tuesday", "Thursday"],
+      "slogan": "Defending Your Rights with Dedication"
+    },
+    {
+      "id": 2,
+      "name": "Tanvir Hasan",
+      "image": "https://i.ibb.co/LJqxYdt/lawyer2.jpg",
+      "speciality": "Family Law",
+      "experience": "5 Years",
+      "licenseNumber": "BD-FAM-2078",
+      "fee": 1200,
+      "availability": ["Monday", "Wednesday"],
+      "slogan": "Fighting for Families, Building Futures"
+    },
+    {
+      "id": 3,
+      "name": "Farhana Chowdhury",
+      "image": "https://i.ibb.co/MGzN3fK/lawyer3.jpg",
+      "speciality": "Corporate Law",
+      "experience": "10 Years",
+      "licenseNumber": "BD-CORP-3987",
+      "fee": 2000,
+      "availability": ["Sunday", "Monday", "Wednesday"],
+      "slogan": "Your Business, Our Priority"
+    },
+    {
+      "id": 4,
+      "name": "Zia Uddin Ahmed",
+      "image": "https://i.ibb.co/sbZNYk5/lawyer4.jpg",
+      "speciality": "Cyber Law",
+      "experience": "6 Years",
+      "licenseNumber": "BD-CYBR-2310",
+      "fee": 1700,
+      "availability": ["Tuesday", "Thursday", "Friday"],
+      "slogan": "Protecting You in the Digital World"
+    },
+    {
+      "id": 5,
+      "name": "Nazneen Akter",
+      "image": "https://i.ibb.co/sWJzrkP/lawyer5.jpg",
+      "speciality": "Property Law",
+      "experience": "7 Years",
+      "licenseNumber": "BD-PROP-4592",
+      "fee": 1300,
+      "availability": ["Monday", "Thursday"],
+      "slogan": "Securing What’s Rightfully Yours"
+    },
+    {
+      "id": 6,
+      "name": "Kazi Arif Hossain",
+      "image": "https://i.ibb.co/p2KbWpF/lawyer6.jpg",
+      "speciality": "Labour Law",
+      "experience": "9 Years",
+      "licenseNumber": "BD-LABR-7731",
+      "fee": 1600,
+      "availability": ["Sunday", "Tuesday", "Friday"],
+      "slogan": "Justice for the Working Class"
+    },
+    {
+      "id": 7,
+      "name": "Fahmida Yasmin",
+      "image": "https://i.ibb.co/qNTG5bt/lawyer7.jpg",
+      "speciality": "Civil Litigation",
+      "experience": "6 Years",
+      "licenseNumber": "BD-CIVL-3402",
+      "fee": 1250,
+      "availability": ["Tuesday", "Wednesday", "Saturday"],
+      "slogan": "Resolving Disputes Peacefully"
+    },
+    {
+      "id": 8,
+      "name": "Mahmudul Hasan",
+      "image": "https://i.ibb.co/2hcN7Dg/lawyer8.jpg",
+      "speciality": "Tax Law",
+      "experience": "12 Years",
+      "licenseNumber": "BD-TAX-5120",
+      "fee": 2200,
+      "availability": ["Sunday", "Thursday"],
+      "slogan": "Simplifying Complex Tax Matters"
+    },
+    {
+      "id": 9,
+      "name": "Sadia Islam",
+      "image": "https://i.ibb.co/WF3vnCz/lawyer9.jpg",
+      "speciality": "Environmental Law",
+      "experience": "4 Years",
+      "licenseNumber": "BD-ENVR-1223",
+      "fee": 1100,
+      "availability": ["Wednesday", "Friday"],
+      "slogan": "For a Greener, Safer Tomorrow"
+    },
+    {
+      "id": 10,
+      "name": "Rashed Kabir",
+      "image": "https://i.ibb.co/smFgdyH/lawyer10.jpg",
+      "speciality": "Immigration Law",
+      "experience": "11 Years",
+      "licenseNumber": "BD-IMMG-8931",
+      "fee": 1900,
+      "availability": ["Monday", "Wednesday", "Friday"],
+      "slogan": "Helping You Build a New Life Abroad"
+    },
+    {
+      "id": 11,
+      "name": "Sabina Akter",
+      "image": "https://i.ibb.co/Ky5swVj/lawyer11.jpg",
+      "speciality": "Intellectual Property Law",
+      "experience": "7 Years",
+      "licenseNumber": "BD-IP-6821",
+      "fee": 1800,
+      "availability": ["Sunday", "Tuesday"],
+      "slogan": "Protecting Your Ideas and Innovations"
+    },
+    {
+      "id": 12,
+      "name": "Iqbal Mahmud",
+      "image": "https://i.ibb.co/nkGjFBX/lawyer12.jpg",
+      "speciality": "Constitutional Law",
+      "experience": "15 Years",
+      "licenseNumber": "BD-CONS-9902",
+      "fee": 2500,
+      "availability": ["Monday", "Thursday", "Saturday"],
+      "slogan": "Upholding Justice for All Citizens"
+    }
+  ]
+  
