@@ -26,6 +26,10 @@ const routers = createBrowserRouter([
                 element: <div>Contact-Us</div>
             },
             {
+                path: '/lawyerDetails/:lucence',
+                element: <div>detils page </div>
+            },
+            {
                 path: '*',
                 element: <NotFound></NotFound>
             }
