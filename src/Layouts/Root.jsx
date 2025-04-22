@@ -26,7 +26,7 @@ const Root = () => {
       {loading ? (
         <Loading></Loading>
       ) : (
-        <div className="minHight">
+        <div className="minHight  py-4 md:py-7 lg:py-9">
           <Outlet></Outlet>
         </div>
       )}

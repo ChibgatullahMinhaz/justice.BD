@@ -3,7 +3,7 @@ import { Link, NavLink } from "react-router";
 import Logo from "../../assets/logo.png";
 const Navbar = () => {
   return (
-    <div className="navbar lg:px-10 md:px-7 px-3 mx-auto bg-base-100 shadow-sm">
+    <div className="navbar lg:px-10 md:px-7 px-3 mx-auto shadow-sm">
       <div className="navbar-start">
         <div className="dropdown">
           <div tabIndex={0} role="button" className=" mx-3.5 lg:hidden">
