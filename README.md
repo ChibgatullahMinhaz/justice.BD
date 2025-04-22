@@ -1,4 +1,6 @@
 # 🧪 Lawyer Appointment Booking Application 
+# [Surge](https://justice-bd.surge.sh/)
+# [Vercel](https://justice-bd.vercel.app/)
 
 Welcome, Developer!
 
