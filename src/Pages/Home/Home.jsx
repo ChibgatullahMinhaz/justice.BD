@@ -29,7 +29,7 @@ const Home = () => {
       <Banner></Banner>
       <Lawyers showLawyer={showLawyer}></Lawyers>
       <div className="flex justify-center items-center">
-        <button className="btn bg-green-600" onClick={handleShow}>
+        <button className="btn bg-green-600 text-white" onClick={handleShow}>
           {show ? "Show Less" : "Show All Lawyer"}
         </button>
       </div>

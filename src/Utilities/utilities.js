@@ -16,14 +16,12 @@ export const addToLawyer = (key, id) => {
         storedLawyers.push(id);
         localStorage.setItem(key, JSON.stringify(storedLawyers));
         return true;
-    } else {
-        localStorage.setItem(key, JSON.stringify(storedLawyers));
-        return false;
     }
+     return false;
 }
 
 export const removeData = (id, key)=> {
 const storedLawyers = getLawyers(key);
-const remainingData = storedLawyers.find(data => data !==id);
-localStorage.setItem(key, JSON.stringify(remainingData))
+const remainingData = storedLawyers.filter(data => data !==id);
+localStorage.setItem(key, JSON.stringify(remainingData));
 }

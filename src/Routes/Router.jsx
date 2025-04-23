@@ -3,6 +3,7 @@ import Root from "../Layouts/Root";
 import Home from "../Pages/Home/Home";
 import NotFound from "../Pages/Error/NotFound";
 import LawyerDetails from "../Pages/Details/LawyerDetails";
+import Booking from "../Pages/Booking/Booking";
 
 const routers = createBrowserRouter([
     {
@@ -16,7 +17,7 @@ const routers = createBrowserRouter([
             },
             {
                 path: '/My-Bookings',
-                element: <div>My-Bookings</div>
+                element: <Booking></Booking>
             },
             {
                 path: '/Blogs',
