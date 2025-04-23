@@ -3,6 +3,7 @@ import { getLawyers, removeData } from "../../Utilities/utilities";
 import { JusticeDataProvider } from "../../Context/ContextProvider/ContextProvider";
 import toast from "react-hot-toast";
 import NotBooked from "./NotBooked";
+import BookChart from "../../Components/Chart/BookChart";
 
 const Booking = () => {
   const { lawyers } = useContext(JusticeDataProvider);
@@ -30,9 +31,10 @@ const Booking = () => {
   return (
     <div>
       {storedAppointment.length === 0 ? (
-        <NotBooked></NotBooked>
+        <NotBooked ></NotBooked>
       ) : (
         <>
+        <BookChart storedAppointment={storedAppointment}></BookChart>
           <div className=" text-center">
             <h1 className="text-xl font-bold ">My Today Appointments</h1>
             <p>
