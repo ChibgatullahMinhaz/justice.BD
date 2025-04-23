@@ -22,8 +22,8 @@ export const addToLawyer = (key, id) => {
     }
 }
 
-const removeData = (id, key)=> {
+export const removeData = (id, key)=> {
 const storedLawyers = getLawyers(key);
 const remainingData = storedLawyers.find(data => data !==id);
-
+localStorage.setItem(key, JSON.stringify(remainingData))
 }
