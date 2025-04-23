@@ -1,5 +1,4 @@
 import React from "react";
-import image from "../../assets/lawyer.png";
 import rgLogo from "../../assets/licenceno.png";
 import { CgDanger } from "react-icons/cg";
 import { useNavigate } from "react-router";
@@ -8,7 +7,7 @@ import toast from "react-hot-toast";
 
 
 const Details = ({ lawyerDetails }) => {
-  const { name, experience, licenseNumber, speciality, availability, fee } =
+  const { name, experience, licenseNumber, speciality,image, availability, fee } =
     lawyerDetails;
     const navigate = useNavigate()
 
@@ -46,7 +45,7 @@ const Details = ({ lawyerDetails }) => {
 
 
         <div className="rounded-2xl bg-gray-200">
-          <img src={image} alt={name} />
+          <img src={image} alt={name} className="md:w-[200px] md:h-[200px] object-center object-cover rounded-2xl" />
         </div>
         <div>
           <p className="text-indigo-600 bg-indigo-300 p-2 rounded-2xl">

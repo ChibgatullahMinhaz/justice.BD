@@ -1,5 +1,5 @@
 import React from 'react'
-import { useParams } from 'react-router'
+import { Link, useParams } from 'react-router'
 import { CiCirclePlus } from "react-icons/ci";
 
 export const NotLawyerFond = () => {
@@ -16,6 +16,9 @@ export const NotLawyerFond = () => {
 <CiCirclePlus />
         {lucence}
        </p>
+       <Link to='/'>
+       <button className='btn bg-green-700 text-white'>Show all Lawyers</button>
+       </Link>
     </div>
   )
 }

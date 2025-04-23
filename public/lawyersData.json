@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Afsana Rahman",
-      "image": "https://i.ibb.co/0Kp7db3/lawyer1.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxR3kKTjpcHoV3ps1rStEtR27nxpET9lWuDA&s",
       "speciality": "Criminal Law",
       "experience": "8 Years",
       "licenseNumber": "BD-CRIM-1091",
@@ -12,8 +12,8 @@
     },
     {
       "id": 2,
-      "name": "Tanvir Hasan",
-      "image": "https://i.ibb.co/LJqxYdt/lawyer2.jpg",
+      "name": "Farhana Chowdhury",
+      "image": "https://distancelearning.aru.ac.uk/app/uploads/2024/09/iStock-1587604256-169KB-1200x800.jpg",
       "speciality": "Family Law",
       "experience": "5 Years",
       "licenseNumber": "BD-FAM-2078",
@@ -23,8 +23,8 @@
     },
     {
       "id": 3,
-      "name": "Farhana Chowdhury",
-      "image": "https://i.ibb.co/MGzN3fK/lawyer3.jpg",
+      "name": "Tanvir Hasan",
+      "image": "https://t3.ftcdn.net/jpg/00/69/90/62/360_F_69906272_95xqHEpDgZTq2MUBHKMUtO4vB3uyIxHI.jpg",
       "speciality": "Corporate Law",
       "experience": "10 Years",
       "licenseNumber": "BD-CORP-3987",
@@ -35,7 +35,7 @@
     {
       "id": 4,
       "name": "Zia Uddin Ahmed",
-      "image": "https://i.ibb.co/sbZNYk5/lawyer4.jpg",
+      "image": "https://media.istockphoto.com/id/1366937503/photo/shot-of-a-young-businessman-walking-to-work-with-his-colleagues.jpg?s=612x612&w=0&k=20&c=NWJul58fABY5UnGXx9qvdBtUqJpwJ8YsgQIHOfoe00Y=",
       "speciality": "Cyber Law",
       "experience": "6 Years",
       "licenseNumber": "BD-CYBR-2310",
@@ -46,7 +46,7 @@
     {
       "id": 5,
       "name": "Nazneen Akter",
-      "image": "https://i.ibb.co/sWJzrkP/lawyer5.jpg",
+      "image": "https://media.istockphoto.com/id/1326920136/photo/shot-of-a-business-women-using-laptop-working-at-home-stock-photo.jpg?s=612x612&w=0&k=20&c=tDhOPNMfBUlZLy5titrUrOXfHVbhVosEoQveTwuuL1Y=",
       "speciality": "Property Law",
       "experience": "7 Years",
       "licenseNumber": "BD-PROP-4592",
@@ -57,7 +57,7 @@
     {
       "id": 6,
       "name": "Kazi Arif Hossain",
-      "image": "https://i.ibb.co/p2KbWpF/lawyer6.jpg",
+      "image": "https://media.istockphoto.com/id/171096019/photo/smiling-lawyer-in-lobby.jpg?s=612x612&w=0&k=20&c=aTopI_BhibPJNmOLDJ6TG2X12B0WTK9fBga7tgi57So=",
       "speciality": "Labour Law",
       "experience": "9 Years",
       "licenseNumber": "BD-LABR-7731",
@@ -68,7 +68,7 @@
     {
       "id": 7,
       "name": "Fahmida Yasmin",
-      "image": "https://i.ibb.co/qNTG5bt/lawyer7.jpg",
+      "image": "https://thumbs.dreamstime.com/b/close-up-portrait-happy-foxy-girl-graduate-cap-smiling-holding-diploma-young-redhead-woman-student-future-lawyer-engineer-91683375.jpg",
       "speciality": "Civil Litigation",
       "experience": "6 Years",
       "licenseNumber": "BD-CIVL-3402",
@@ -79,7 +79,7 @@
     {
       "id": 8,
       "name": "Mahmudul Hasan",
-      "image": "https://i.ibb.co/2hcN7Dg/lawyer8.jpg",
+      "image": "https://i.pinimg.com/736x/a0/a3/14/a0a314bd1a6bbab1a223cd579bdbf7c8.jpg",
       "speciality": "Tax Law",
       "experience": "12 Years",
       "licenseNumber": "BD-TAX-5120",
@@ -90,7 +90,7 @@
     {
       "id": 9,
       "name": "Sadia Islam",
-      "image": "https://i.ibb.co/WF3vnCz/lawyer9.jpg",
+      "image": "https://img.lovepik.com/free-png/20220126/lovepik-image-of-young-female-lawyers-png-image_401874980_wh1200.png",
       "speciality": "Environmental Law",
       "experience": "4 Years",
       "licenseNumber": "BD-ENVR-1223",
@@ -101,7 +101,7 @@
     {
       "id": 10,
       "name": "Rashed Kabir",
-      "image": "https://i.ibb.co/smFgdyH/lawyer10.jpg",
+      "image": "https://static.vecteezy.com/system/resources/previews/029/771/887/non_2x/portrait-of-a-handsome-businessman-in-modern-office-asian-manager-looking-at-camera-and-smiling-confident-male-ceo-planning-and-managing-company-strategy-free-photo.jpeg",
       "speciality": "Immigration Law",
       "experience": "11 Years",
       "licenseNumber": "BD-IMMG-8931",
@@ -112,7 +112,7 @@
     {
       "id": 11,
       "name": "Sabina Akter",
-      "image": "https://i.ibb.co/Ky5swVj/lawyer11.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeWzePqOviDYwRX32FUkCfe_vjRAceYhD80g&s",
       "speciality": "Intellectual Property Law",
       "experience": "7 Years",
       "licenseNumber": "BD-IP-6821",
@@ -123,8 +123,7 @@
     {
       "id": 12,
       "name": "Iqbal Mahmud",
-      "image": "https://i.ibb.co/nkGjFBX/lawyer12.jpg",
-      "speciality": "Constitutional Law",
+      "image": "https://img.freepik.com/free-photo/smart-looking-teacher_53876-23045.jpg?semt=ais_hybrid&w=740",
       "experience": "15 Years",
       "licenseNumber": "BD-CONS-9902",
       "fee": 2500,

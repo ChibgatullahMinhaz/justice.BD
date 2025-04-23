@@ -8,6 +8,7 @@ const Lawyer = ({ lawyer }) => {
     licenseNumber,
     speciality,
     slogan,
+    image,
     name,
     fee,
     availability,
@@ -15,10 +16,8 @@ const Lawyer = ({ lawyer }) => {
   } = lawyer;
  
   return (
-    <div className=" bg-gray-300  rounded-2xl  flex  justify-center items-center md:flex-wrap md:flex-row flex-col gap-2">
-      <div>
-        <img src={image} alt={name} />
-      </div>
+    <div className=" bg-gray-300  p-3 rounded-2xl  flex   items-center md:flex-wrap md:flex-row flex-col gap-2">
+        <img className=" lg:w-[180px] rounded-full lg:h-[180px] object-center object-bottom-right  object-cover" src={image} alt={name} />
 
       <div className="space-y-3">
         <div className="flex justify-between gap-x-2">
