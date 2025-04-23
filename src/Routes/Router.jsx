@@ -4,6 +4,7 @@ import Home from "../Pages/Home/Home";
 import NotFound from "../Pages/Error/NotFound";
 import LawyerDetails from "../Pages/Details/LawyerDetails";
 import Booking from "../Pages/Booking/Booking";
+import Blogs from "../Pages/Blogs/Blogs";
 
 const routers = createBrowserRouter([
     {
@@ -21,7 +22,7 @@ const routers = createBrowserRouter([
             },
             {
                 path: '/Blogs',
-                element: <div>Blogs</div>
+                Component: Blogs
             },
             {
                 path: '/Contact-Us',
